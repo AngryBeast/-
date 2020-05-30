@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/P1_1字符串最后一个单词的长度/P1_1字符串最后一个单词的长度.iml" filepath="$PROJECT_DIR$/P1_1字符串最后一个单词的长度/P1_1字符串最后一个单词的长度.iml" />
+      <module fileurl="file://$PROJECT_DIR$/P1_2计算字符个数/P1_2计算字符个数.iml" filepath="$PROJECT_DIR$/P1_2计算字符个数/P1_2计算字符个数.iml" />
+      <module fileurl="file://$PROJECT_DIR$/P1_3明明的随机数/P1_3明明的随机数.iml" filepath="$PROJECT_DIR$/P1_3明明的随机数/P1_3明明的随机数.iml" />
+      <module fileurl="file://$PROJECT_DIR$/P1_4字符串分隔/P1_4字符串分隔.iml" filepath="$PROJECT_DIR$/P1_4字符串分隔/P1_4字符串分隔.iml" />
+      <module fileurl="file://$PROJECT_DIR$/P1_5进制转换/P1_5进制转换.iml" filepath="$PROJECT_DIR$/P1_5进制转换/P1_5进制转换.iml" />
+      <module fileurl="file://$PROJECT_DIR$/P1_6质数因子/P1_6质数因子.iml" filepath="$PROJECT_DIR$/P1_6质数因子/P1_6质数因子.iml" />
+      <module fileurl="file://$PROJECT_DIR$/P1_7取近似值/P1_7取近似值.iml" filepath="$PROJECT_DIR$/P1_7取近似值/P1_7取近似值.iml" />
+      <module fileurl="file://$PROJECT_DIR$/P1_8合并表记录/P1_8合并表记录.iml" filepath="$PROJECT_DIR$/P1_8合并表记录/P1_8合并表记录.iml" />
+      <module fileurl="file://$PROJECT_DIR$/niuke.iml" filepath="$PROJECT_DIR$/niuke.iml" />
+      <module fileurl="file://$PROJECT_DIR$/未解决/未解决.iml" filepath="$PROJECT_DIR$/未解决/未解决.iml" />
+    </modules>
+  </component>
+</project>
